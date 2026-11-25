@@ -1,0 +1,13 @@
+{
+  "name": "brick-breaker",
+  "version": "1.0.0",
+  "description": "Mouse-controlled Brick Breaker with an office leaderboard. Zero dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
